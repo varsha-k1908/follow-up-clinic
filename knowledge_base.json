@@ -1,0 +1,21 @@
+{
+  "clinic_name": "Nova Fertility Clinic",
+  "address": "12 MG Road, Bengaluru",
+  "phone": "+91-80-0000-0000",
+  "hours": "Mon-Sat, 9:00 AM - 6:00 PM",
+  "languages": ["en", "hi", "mr"],
+  "services": [
+    "IVF consultation",
+    "IUI",
+    "Follicular scan",
+    "Beta hCG test",
+    "Embryo transfer",
+    "Post-transfer follow-up"
+  ],
+  "followup_types": {
+    "consultation": "Consultation follow-up",
+    "scan": "Follicular scan follow-up",
+    "beta_hcg": "Beta hCG test",
+    "post_transfer": "Post-transfer follow-up"
+  }
+}
